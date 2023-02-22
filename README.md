@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nathaly! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaly-veneruchi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathalyveneruchi@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathcodes/)
 [![Website](https://img.shields.io/website-up-nathaly.com.br-green-d/http/cv.lbesson.qc.to.svg&url=http://nathaly.com.br)](http://nathaly.com.br)
 <div style="display: inline_block"><br/>
