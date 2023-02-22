@@ -29,4 +29,4 @@
     <img align="center" alt="Vue" height="10" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/>
 </div>
 
- [![Snake animation](https://github.com/nathalyveneruchi/nathalyveneruchi/blob/output/github-contribution-grid-snake.svg)]
+ ![Snake animation](https://github.com/nathalyveneruchi/nathalyveneruchi/blob/output/github-contribution-grid-snake.svg)
