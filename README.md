@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Nathaly! 👋
 
 - Formanda em Engenharia de Software pela UFMS (2019)
+- Pós graduada em Analise e desenvolvimentos de Programas
+- MBA em Gestão de Projetos em Tecnologia da Informação
 - Atuo como desenvolvedora de software profissionalmente desde 2017.
 - Inicieis os estudos na área de computação em 2014.
 - Atualmente, atuo como desenvolvedora de software utilizando tecnologias como: Java, spring boot, MongoDB, Junit, Spock, Docker, Algolia, Azure, etc.
