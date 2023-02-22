@@ -28,6 +28,7 @@
     <img align="center" alt="Vue" height="30" width="40" src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg"/>
     <img align="center" alt="Vue" height="10" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/>
 </div>
+
 ##
 
 ### Contatos
