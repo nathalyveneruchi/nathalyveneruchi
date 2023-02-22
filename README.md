@@ -1,13 +1,11 @@
 ### Olá! Eu sou a Nathaly! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaly-veneruchi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathalyveneruchi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathcodes/)
-[![Website](https://img.shields.io/website-up-nathaly.com.br-green-d/http/cv.lbesson.qc.to.svg&url=http://nathaly.com.br)](http://nathaly.com.br)
-<div style="display: inline_block"><br/>
-  <img height="180" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=nathalyveneruchi&show_icons=true&theme=dracula" />
-  <img height="180" width="420"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalyveneruchi&layout=compact&langs_count=7&theme=dracula" />
-</div>
+- Formanda em Engenharia de Software pela UFMS (2019)
+- Atuo como desenvolvedora de software profissionalmente desde 2017.
+- Inicieis os estudos na área de computação em 2014.
+- Atualmente, atuo como desenvolvedora de software utilizando tecnologias como: Java, spring boot, MongoDB, Junit, Spock, Docker, Algolia, Azure, etc.
+
+##
 
 ### Skills
 
@@ -28,5 +26,17 @@
     <img align="center" alt="Vue" height="30" width="40" src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg"/>
     <img align="center" alt="Vue" height="10" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png"/>
 </div>
+##
 
+### Contatos
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaly-veneruchi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathalyveneruchi@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathcodes/)
+[![Website](https://img.shields.io/website-up-nathaly.com.br-green-d/http/cv.lbesson.qc.to.svg&url=http://nathaly.com.br)](http://nathaly.com.br)
+<div style="display: inline_block"><br/>
+  <img height="180" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=nathalyveneruchi&show_icons=true&theme=dracula" />
+  <img height="180" width="420"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalyveneruchi&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
+##
  ![Snake animation](https://github.com/nathalyveneruchi/nathalyveneruchi/blob/output/github-contribution-grid-snake.svg)
