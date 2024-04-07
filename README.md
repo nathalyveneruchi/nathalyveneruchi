@@ -35,7 +35,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaly-veneruchi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathalyveneruchi@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathcodes/)
-[![Website](https://img.shields.io/website-up-nathcodes.com.br-green-d/http/cv.lbesson.qc.to.svg&url=http://http://nathcodes.com.br/)](http://http://nathcodes.com.br/)
+[![Website](https://img.shields.io/website-up-nathcodes.com.br-green-d/http/cv.lbesson.qc.to.svg&url=https://nathcodes.com.br/)](https://nathcodes.com.br/)
 <div style="display: inline_block"><br/>
   <img height="180" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=nathalyveneruchi&show_icons=true&theme=dracula" />
   <img height="180" width="420"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalyveneruchi&layout=compact&langs_count=7&theme=dracula" />
